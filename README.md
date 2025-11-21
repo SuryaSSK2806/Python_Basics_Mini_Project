@@ -31,14 +31,9 @@ A simple yet powerful **Personal Finance Tracker** built with Python, allowing u
 
 ## 🚀 How to Run
 
-### Option 1: Run in Jupyter Notebook
+### Run in Jupyter Notebook
 
 1. Open the `personal_finance_tracker_surya-updated.ipynb` in Jupyter Notebook.
 2. Run all cells step-by-step.
 3. Use the terminal-style prompts to interact.
 
-### Option 2: Convert to Python Script
-
-You can export the notebook as a `.py` file using:
-```bash
-jupyter nbconvert --to script personal_finance_tracker_surya.ipynb
